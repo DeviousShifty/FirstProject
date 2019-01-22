@@ -6,10 +6,12 @@
 //  Copyright © 2019 CTEC. All rights reserved.
 //
 
-#include <iostream>
+#include <iostream> //#include is the import statement
+using namespace std;
 
-int main(int argc, const char * argv[]) {
+int main()
+{
     // insert code here...
-    std::cout << "Hello, World!\n";
+    cout << "Time to learn about C++ and Data Structures and Algorithms\n";
     return 0;
 }
